@@ -44,7 +44,7 @@ This project is a straightforward Flutter application demonstrating state manage
 
 1.  **Clone the repository:**
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/hunting-the-pixel/TomaDone.git
     cd tomadone
     ```
 

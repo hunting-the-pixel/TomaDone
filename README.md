@@ -2,9 +2,9 @@
 
 A simple, beautiful, and effective Pomodoro Timer built with Flutter. This app helps you stay focused and productive by breaking down your work into manageable 25-minute sessions.
 
-![Initial](/assets/Initial.jpg?raw=true&width=300)
-![Paused](/assets/Paused.jpg?raw=true&width=300)
-![Circle](/assets/Circle.jpg?raw=true&width=300)
+![Initial](/assets/Initial.jpg | width=100)
+![Paused](/assets/Paused.jpg | width=100)
+![Circle](/assets/Circle.jpg | width=100)
 
 ---
 

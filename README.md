@@ -7,7 +7,6 @@ A simple, beautiful, and effective Pomodoro Timer built with Flutter. This app h
   <img src="assets/Paused.jpg" width="220" />
   <img src="assets/Circle.jpg" width="220" />
 </div>
----
 
 ## ✨ For Users
 

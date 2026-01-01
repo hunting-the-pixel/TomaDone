@@ -1,0 +1,77 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+
+# VS Code
+.vscode/
+
+# Android
+/android/app/src/main/assets/flutter_assets/
+/android/app/build/
+/android/app/generated/
+/android/.gradle/
+/android/gradle/
+/android/local.properties
+/android/key.properties
+/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+
+
+# iOS
+/ios/Flutter/App.framework
+/ios/Flutter/Debug.xcconfig
+/ios/Flutter/Release.xcconfig
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/flutter_export_environment.sh
+/ios/Pods/
+/ios/Podfile.lock
+/ios/Runner/GeneratedPluginRegistrant.h
+/ios/Runner/GeneratedPluginRegistrant.m
+/ios/Runner.xcworkspace/
+/ios/Runner.xcworkspace/contents.xcworkspacedata
+/ios/Runner.xcworkspace/xcshareddata/
+/ios/Runner.xcodeproj/project.xcworkspace/
+/ios/Runner.xcodeproj/xcuserdata/
+
+# Builds
+**/build/
+build/
+
+# Generated files
+lib/generated_plugin_registrant.dart
+lib/main.dart.copy.dart
+/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+
+# Sensitive files
+*.jks
+*.keystore
+*key.properties
+secrets.json
+.env*
+!.env.example
+
+# Release files
+/release/
+
+# Release files
+/release/

@@ -64,3 +64,10 @@ This project is a straightforward Flutter application demonstrating state manage
 -   `lib/main.dart`: The single entry point and main screen for the application. Contains all UI and business logic.
 -   `android/`: Android-specific project files.
 -   `ios/`: iOS-specific project files (not configured yet... ).
+
+
+
+## 👨‍💻 Author
+
+* [The Pixel Hunter - GitHub](https://github.com/hunting-the-pixel)
+* [Magomed Dakhkilgov - LinkedIn](https://linkedin.com/in/magomed-d)
